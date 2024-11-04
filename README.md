@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">PowerCenter ETL Analyst<br>Python Analyst and Developer</p>
+<p align="left">- PowerCenter ETL Analyst<br>- Python Analyst and Developer</p>
 
 ###
 
@@ -41,8 +41,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dorac0&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dorac0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="148" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dorac0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dorac0&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dorac0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false" height="148" alt="languages graph"  />
 </div>
 
 ###
@@ -53,6 +54,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/dorac0/count.svg?"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=dorac0.dorac0&left_color=aqua&right_color=antiquewhite"  />
 
-### 
+###
